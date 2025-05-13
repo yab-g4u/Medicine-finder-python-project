@@ -27,7 +27,7 @@ Follow these steps to run the application locally:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <>
+   git clone <https://github.com/yab-g4u/Medicine-finder-python-project.git>
    cd Smart-Medicine-Finder
    ```
 
