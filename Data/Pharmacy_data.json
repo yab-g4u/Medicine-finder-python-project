@@ -1,77 +1,77 @@
-#simulated database
+
 [
   {
     "name": "Paracetamol",
     "pharmacy": "HealthPlus",
-    "price": 2.5
+    "price": 250 ETB
   },
   {
     "name": "Ibuprofen",
     "pharmacy": "MedStore",
-    "price": 3.0
+    "price": 300 ETB
   },
   {
     "name": "Amoxicillin",
     "pharmacy": "CityPharma",
-    "price": 5.5
+    "price": 55 ETB
   }
 ,
   {
     "name": "Aspirin",
     "pharmacy": "WellnessPharm",
-    "price": 1.5
+    "price": 150 ETB
   },
   {
     "name": "Cetirizine",
     "pharmacy": "CarePharmacy",
-    "price": 4.0
+    "price": 470 ETB
   },
   {
     "name": "Lisinopril",
     "pharmacy": "HeartHealth",
-    "price": 10.0
+    "price": 1000 ETB
   }
 
 ,
   {
     "name": "Metformin",
     "pharmacy": "DiabetesCare",
-    "price": 7.0
+    "price": 7OO ETB
   },
   {
     "name": "Simvastatin",
     "pharmacy": "CholesterolPharm",
-    "price": 8.0
+    "price": 8OO ETB
   },
   {
     "name": "Levothyroxine",
     "pharmacy": "ThyroidHealth",
-    "price": 12.0
+    "price": 1300 ETB
   },
   {
     "name": "Omeprazole",
     "pharmacy": "StomachRelief",
-    "price": 6.0
+    "price": 750 ETB
   },
   {
     "name": "Amlodipine",
     "pharmacy": "HeartCare",
-    "price": 9.0
+    "price": 1000 ETB
   },
   {
     "name": "Atorvastatin",
     "pharmacy": "LipidControl",
-    "price": 11.0
+    "price": 1300 ETB
   },
   {
     "name": "Gabapentin",
     "pharmacy": "NeuroPharm",
-    "price": 15.0
+    "price": 1750 ETB
   },
   {
     "name": "Sertraline",
     "pharmacy": "MentalHealthPharm",
-    "price": 14.0
+    "price": 1860 ETB
   },
   {
     "name": "Fluoxetine",
@@ -81,47 +81,47 @@
   {
     "name": "Hydrochlorothiazide",
     "pharmacy": "BloodPressurePharm",
-    "price": 4.5
+    "price": 580 ETB
   },
   {
     "name": "Furosemide",
     "pharmacy": "KidneyCare",
-    "price": 5.0
+    "price": 630 ETB
   },
   {
     "name": "Warfarin",
     "pharmacy": "ClotControl",
-    "price": 20.0
+    "price": 2200 ETB
   },
   {
     "name": "Clopidogrel",
     "pharmacy": "HeartGuard",
-    "price": 18.0
+    "price": 2090 ETB
   },
   {
     "name": "Montelukast",
     "pharmacy": "AsthmaRelief",
-    "price": 9.5
+    "price": 1255 ETB
   },
   {
     "name": "Albuterol",
     "pharmacy": "RespiratoryPharm",
-    "price": 7.5
+    "price": 990 ETB
   },
   {
     "name": "Prednisone",
     "pharmacy": "InflammationPharm",
-    "price": 6.5
+    "price": 895 ETB
   },
   {
     "name": "Dexamethasone",
     "pharmacy": "SteroidPharm",
-    "price": 8.5
+    "price": 1120 ETB
   },
   {
     "name": "Ciprofloxacin",
     "pharmacy": "InfectionPharm",
-    "price": 9.0
+    "price": 1250 ETB
   },
   {
     "name": "Azithromycin",
@@ -131,164 +131,164 @@
   {
     "name": "Metronidazole",
     "pharmacy": "InfectionControl",
-    "price": 10.5
+    "price": 1380 ETB
   },
   {
     "name": "Vancomycin",
     "pharmacy": "SevereInfectionPharm",
-    "price": 25.0
+    "price": 3200 ETB
   },
   {
     "name": "Citalopram",
     "pharmacy": "AnxietyPharm",
-    "price": 12.5
+    "price": 1460 ETB
   },
   {
     "name": "Escitalopram",
     "pharmacy": "DepressionPharm",
-    "price": 13.5
+    "price": 1580 ETB
   },
   {
     "name": "Bupropion",
     "pharmacy": "MoodPharm",
-    "price": 14.5
+    "price": 1775 ETB
   },
   {
     "name": "Venlafaxine",
     "pharmacy": "SerotoninPharm",
-    "price": 15.5
+    "price": 1965 ETB
   },
   {
     "name": "Duloxetine",
     "pharmacy": "PainReliefPharm",
-    "price": 16.5
+    "price": 1958 ETB
   },
   {
     "name": "Trazodone",
     "pharmacy": "SleepAidPharm",
-    "price": 17.5
+    "price": 2150 ETB   
   },
   {
     "name": "Zolpidem",
     "pharmacy": "InsomniaPharm",
-    "price": 18.5
+    "price": 2320 ETB
   },
   {
     "name": "Lorazepam",
     "pharmacy": "AnxietyReliefPharm",
-    "price": 19.5
+    "price": 2550 ETB
   },
   {
     "name": "Diazepam",
     "pharmacy": "CalmPharm",
-    "price": 20.5
+    "price": 2580 ETB
   },
   {
     "name": "Clonazepam",
     "pharmacy": "PanicPharm",
-    "price": 21.5
+    "price": 2830 ETB
   },
   {
     "name": "Buspirone",
     "pharmacy": "StressReliefPharm",
-    "price": 22.5
+    "price": 2995 ETB
   },
   {
     "name": "Hydroxyzine",
     "pharmacy": "CalmDownPharm",
-    "price": 23.5
+    "price": 2990 ETB
   },
   {
     "name": "Diphenhydramine",
     "pharmacy": "SleepPharm",
-    "price": 24.5
+    "price": 3080 ETB
   },
   {
     "name": "Promethazine",
     "pharmacy": "NauseaPharm",
-    "price": 25.5
+    "price": 3150 ETB
   },
   
   {
     "name": "Meclizine",
     "pharmacy": "MotionSicknessPharm",
-    "price": 26.5
+    "price": 3230 ETB
   },
   {
     "name": "Cetirizine",
     "pharmacy": "AllergyPharm",
-    "price": 27.5
+    "price": 3380 ETB
   },
   {
     "name": "Levocetirizine",
     "pharmacy": "AllergyReliefPharm",
-    "price": 28.5
+    "price": 3595 ETB
   },
   {
     "name": "Fexofenadine",
     "pharmacy": "AntihistaminePharm",
-    "price": 29.5
+    "price": 35OO ETB
   },
   {
     "name": "Desloratadine",
     "pharmacy": "AllergyControlPharm",
-    "price": 30.5
+    "price": 3675 ETB
   },
   {
     "name": "Montelukast",
     "pharmacy": "AsthmaPharm",
-    "price": 31.5
+    "price": 3780
   },
   {
     
     "name": "Fluticasone",
     "pharmacy": "NasalSprayPharm",
-    "price": 32.5
+    "price": 3880 ETB
   },
   {
     "name": "Budesonide",
     "pharmacy": "RespiratoryControlPharm",
-    "price": 33.5
+    "price": 3990 ETB
   },
   {
     "name": "Beclomethasone",
     "pharmacy": "NasalReliefPharm",
-    "price": 34.5
+    "price": 4000 ETB
   },
   {
     "name": "Mometasone",
     "pharmacy": "AllergyPharm",
-    "price": 35.5
+    "price": 4185 ETB
   },
   {
     "name": "Triamcinolone",
     "pharmacy": "InflammationControlPharm",
-    "price": 36.5
+    "price": 4280 ETB
   },
   {
     "name": "Hydrocodone",
     "pharmacy": "PainManagementPharm",
-    "price": 37.5
+    "price": 4390 ETB
   },
   {
     "name": "Oxycodone",
     "pharmacy": "SeverePainPharm",
-    "price": 38.5
+    "price": 4500 ETB
   },
   {
     "name": "Morphine",
     "pharmacy": "OpioidPharm",
-    "price": 39.5
+    "price": 4630 ETB
   },
   {
     "name": "Fentanyl",
     "pharmacy": "PainReliefPharm",
-    "price": 40.5
+    "price": 4755 ETB
   },
   {
     "name": "Codeine",
     "pharmacy": "CoughPharm",
-    "price": 41.5
+    "price": 4860 ETB
   }
 ]
 
