@@ -1,1 +1,295 @@
 #simulated database
+[
+  {
+    "name": "Paracetamol",
+    "pharmacy": "HealthPlus",
+    "price": 2.5
+  },
+  {
+    "name": "Ibuprofen",
+    "pharmacy": "MedStore",
+    "price": 3.0
+  },
+  {
+    "name": "Amoxicillin",
+    "pharmacy": "CityPharma",
+    "price": 5.5
+  }
+,
+  {
+    "name": "Aspirin",
+    "pharmacy": "WellnessPharm",
+    "price": 1.5
+  },
+  {
+    "name": "Cetirizine",
+    "pharmacy": "CarePharmacy",
+    "price": 4.0
+  },
+  {
+    "name": "Lisinopril",
+    "pharmacy": "HeartHealth",
+    "price": 10.0
+  }
+
+,
+  {
+    "name": "Metformin",
+    "pharmacy": "DiabetesCare",
+    "price": 7.0
+  },
+  {
+    "name": "Simvastatin",
+    "pharmacy": "CholesterolPharm",
+    "price": 8.0
+  },
+  {
+    "name": "Levothyroxine",
+    "pharmacy": "ThyroidHealth",
+    "price": 12.0
+  },
+  {
+    "name": "Omeprazole",
+    "pharmacy": "StomachRelief",
+    "price": 6.0
+  },
+  {
+    "name": "Amlodipine",
+    "pharmacy": "HeartCare",
+    "price": 9.0
+  },
+  {
+    "name": "Atorvastatin",
+    "pharmacy": "LipidControl",
+    "price": 11.0
+  },
+  {
+    "name": "Gabapentin",
+    "pharmacy": "NeuroPharm",
+    "price": 15.0
+  },
+  {
+    "name": "Sertraline",
+    "pharmacy": "MentalHealthPharm",
+    "price": 14.0
+  },
+  {
+    "name": "Fluoxetine",
+    "pharmacy": "MoodStabilizers",
+    "price": 13.0
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "pharmacy": "BloodPressurePharm",
+    "price": 4.5
+  },
+  {
+    "name": "Furosemide",
+    "pharmacy": "KidneyCare",
+    "price": 5.0
+  },
+  {
+    "name": "Warfarin",
+    "pharmacy": "ClotControl",
+    "price": 20.0
+  },
+  {
+    "name": "Clopidogrel",
+    "pharmacy": "HeartGuard",
+    "price": 18.0
+  },
+  {
+    "name": "Montelukast",
+    "pharmacy": "AsthmaRelief",
+    "price": 9.5
+  },
+  {
+    "name": "Albuterol",
+    "pharmacy": "RespiratoryPharm",
+    "price": 7.5
+  },
+  {
+    "name": "Prednisone",
+    "pharmacy": "InflammationPharm",
+    "price": 6.5
+  },
+  {
+    "name": "Dexamethasone",
+    "pharmacy": "SteroidPharm",
+    "price": 8.5
+  },
+  {
+    "name": "Ciprofloxacin",
+    "pharmacy": "InfectionPharm",
+    "price": 9.0
+  },
+  {
+    "name": "Azithromycin",
+    "pharmacy": "AntibioticPharm",
+    "price": 11.5
+  },
+  {
+    "name": "Metronidazole",
+    "pharmacy": "InfectionControl",
+    "price": 10.5
+  },
+  {
+    "name": "Vancomycin",
+    "pharmacy": "SevereInfectionPharm",
+    "price": 25.0
+  },
+  {
+    "name": "Citalopram",
+    "pharmacy": "AnxietyPharm",
+    "price": 12.5
+  },
+  {
+    "name": "Escitalopram",
+    "pharmacy": "DepressionPharm",
+    "price": 13.5
+  },
+  {
+    "name": "Bupropion",
+    "pharmacy": "MoodPharm",
+    "price": 14.5
+  },
+  {
+    "name": "Venlafaxine",
+    "pharmacy": "SerotoninPharm",
+    "price": 15.5
+  },
+  {
+    "name": "Duloxetine",
+    "pharmacy": "PainReliefPharm",
+    "price": 16.5
+  },
+  {
+    "name": "Trazodone",
+    "pharmacy": "SleepAidPharm",
+    "price": 17.5
+  },
+  {
+    "name": "Zolpidem",
+    "pharmacy": "InsomniaPharm",
+    "price": 18.5
+  },
+  {
+    "name": "Lorazepam",
+    "pharmacy": "AnxietyReliefPharm",
+    "price": 19.5
+  },
+  {
+    "name": "Diazepam",
+    "pharmacy": "CalmPharm",
+    "price": 20.5
+  },
+  {
+    "name": "Clonazepam",
+    "pharmacy": "PanicPharm",
+    "price": 21.5
+  },
+  {
+    "name": "Buspirone",
+    "pharmacy": "StressReliefPharm",
+    "price": 22.5
+  },
+  {
+    "name": "Hydroxyzine",
+    "pharmacy": "CalmDownPharm",
+    "price": 23.5
+  },
+  {
+    "name": "Diphenhydramine",
+    "pharmacy": "SleepPharm",
+    "price": 24.5
+  },
+  {
+    "name": "Promethazine",
+    "pharmacy": "NauseaPharm",
+    "price": 25.5
+  },
+  
+  {
+    "name": "Meclizine",
+    "pharmacy": "MotionSicknessPharm",
+    "price": 26.5
+  },
+  {
+    "name": "Cetirizine",
+    "pharmacy": "AllergyPharm",
+    "price": 27.5
+  },
+  {
+    "name": "Levocetirizine",
+    "pharmacy": "AllergyReliefPharm",
+    "price": 28.5
+  },
+  {
+    "name": "Fexofenadine",
+    "pharmacy": "AntihistaminePharm",
+    "price": 29.5
+  },
+  {
+    "name": "Desloratadine",
+    "pharmacy": "AllergyControlPharm",
+    "price": 30.5
+  },
+  {
+    "name": "Montelukast",
+    "pharmacy": "AsthmaPharm",
+    "price": 31.5
+  },
+  {
+    
+    "name": "Fluticasone",
+    "pharmacy": "NasalSprayPharm",
+    "price": 32.5
+  },
+  {
+    "name": "Budesonide",
+    "pharmacy": "RespiratoryControlPharm",
+    "price": 33.5
+  },
+  {
+    "name": "Beclomethasone",
+    "pharmacy": "NasalReliefPharm",
+    "price": 34.5
+  },
+  {
+    "name": "Mometasone",
+    "pharmacy": "AllergyPharm",
+    "price": 35.5
+  },
+  {
+    "name": "Triamcinolone",
+    "pharmacy": "InflammationControlPharm",
+    "price": 36.5
+  },
+  {
+    "name": "Hydrocodone",
+    "pharmacy": "PainManagementPharm",
+    "price": 37.5
+  },
+  {
+    "name": "Oxycodone",
+    "pharmacy": "SeverePainPharm",
+    "price": 38.5
+  },
+  {
+    "name": "Morphine",
+    "pharmacy": "OpioidPharm",
+    "price": 39.5
+  },
+  {
+    "name": "Fentanyl",
+    "pharmacy": "PainReliefPharm",
+    "price": 40.5
+  },
+  {
+    "name": "Codeine",
+    "pharmacy": "CoughPharm",
+    "price": 41.5
+  }
+]
+
+  
