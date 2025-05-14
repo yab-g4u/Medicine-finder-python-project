@@ -1,4 +1,4 @@
-""# Smart Medicine Finder 💊
+# Smart Medicine Finder 💊
 
 Smart Medicine Finder is a beginner-friendly Python web application designed to efficiently manage medicine prescriptions, provide timely reminders for taking medications, and search for medicine availability and pricing at nearby pharmacies.
 
