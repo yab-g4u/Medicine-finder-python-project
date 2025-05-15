@@ -1,8 +1,12 @@
+
 import json
+import os
+
+PHARMACY_FILE = 'data/pharmacy.json'
 
 def search_medicine(query):
-    with open("data/pharmacy_data.json", "r") as f:
+    if not os.path.exists(PHARMACY_FILE):
+        return []
+    with open(PHARMACY_FILE, 'r') as f:
         data = json.load(f)
-    matches = [m for m in data if query.lower() in m['name'].lower()]
-    return matches
-
+        return [item for item in data if query.lower() in item['name'].lower()]
