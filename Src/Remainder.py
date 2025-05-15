@@ -1,8 +1,16 @@
-import json
-import datetime
+
+from datetime import datetime
+from utils.core import load_prescriptions
 
 def check_reminders():
-    now = datetime.datetime.now().strftime("%H:%M")
-    with open("data/prescription.json", "r") as f:
-        prescriptions = json.load(f)
-    return [p for p in prescriptions if p['time'] == now]
+    prescriptions = load_prescriptions()
+    now = datetime.now().time()
+    due = []
+    for entry in prescriptions:
+        try:
+            entry_time = datetime.strptime(entry['time'], "%H:%M").time()
+            if now >= entry_time:
+                due.append(entry)
+        except Exception:
+            continue
+    return due
