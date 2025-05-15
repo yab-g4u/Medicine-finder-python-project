@@ -36,12 +36,12 @@
   {
     "name": "Metformin",
     "pharmacy": "DiabetesCare",
-    "price": 7OO, "ETB"
+    "price": 700, "ETB"
   },
   {
     "name": "Simvastatin",
     "pharmacy": "CholesterolPharm",
-    "price": 8OO, "ETB"
+    "price": 800, "ETB"
   },
   {
     "name": "Levothyroxine",
@@ -227,7 +227,7 @@
   {
     "name": "Fexofenadine",
     "pharmacy": "AntihistaminePharm",
-    "price": 35OO, "ETB"
+    "price": 3500, "ETB"
   },
   {
     "name": "Desloratadine",
